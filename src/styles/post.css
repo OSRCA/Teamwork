@@ -1,0 +1,24 @@
+.singlePost{
+  position: relative;
+  padding: 1.4rem .9rem;
+  box-shadow: rgba(0, 0, 0, 0.2);
+  height: 18rem;
+  width: 100%;
+  border-radius: .6rem;
+  margin-top: 1rem;
+}
+.topbar{
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.userImage{
+  position: relative;
+}
+.online{
+  position: absolute;
+  top: 0;
+  width: .9rem;
+  height: .9rem;
+  color:rgba(25, 171, 79, 1);
+}
